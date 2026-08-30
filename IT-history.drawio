@@ -141,6 +141,18 @@
         <mxCell id="Hsh47NoCQzQNqqifeTFL-22" parent="Hsh47NoCQzQNqqifeTFL-23" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#B3FF66;" value="1996 Google" vertex="1">
           <mxGeometry height="17" width="109" x="542" y="37" as="geometry" />
         </mxCell>
+        <mxCell id="Hsh47NoCQzQNqqifeTFL-127" edge="1" parent="Hsh47NoCQzQNqqifeTFL-23" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="986" y="254" as="sourcePoint" />
+            <mxPoint x="986" y="3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hsh47NoCQzQNqqifeTFL-128" edge="1" parent="Hsh47NoCQzQNqqifeTFL-23" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1163" y="254" as="sourcePoint" />
+            <mxPoint x="1163" y="3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#CCFF99;fontColor=#FFB570;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="35" y="207" as="sourcePoint" />
@@ -223,7 +235,7 @@
           <mxGeometry height="30" width="43.721739130434784" x="19.674782608695654" y="4" as="geometry" />
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-44" connectable="0" parent="1" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="34" width="104.75" x="-116.75" y="461" as="geometry" />
+          <mxGeometry height="34" width="104.75" x="-116.75" y="501" as="geometry" />
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-45" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-44" style="group" value="" vertex="1">
           <mxGeometry height="30" width="104.75" as="geometry" />
@@ -295,7 +307,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-64" connectable="0" parent="1" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="34" width="104.75" x="-116" y="519" as="geometry" />
+          <mxGeometry height="34" width="104.75" x="-113" y="281" as="geometry" />
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-65" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-64" style="group" value="" vertex="1">
           <mxGeometry height="30" width="104.75" as="geometry" />
@@ -341,7 +353,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-71" connectable="0" parent="1" style="group;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FFFFFF;" value="" vertex="1">
-          <mxGeometry height="34" width="104.75" x="-117" y="575" as="geometry" />
+          <mxGeometry height="34" width="104.75" x="-110" y="238" as="geometry" />
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-72" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-71" style="group;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
           <mxGeometry height="30" width="104.75" as="geometry" />
@@ -377,7 +389,7 @@
         <mxCell id="Hsh47NoCQzQNqqifeTFL-48" parent="Hsh47NoCQzQNqqifeTFL-81" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#B3FF66;" value="1944 - Mark I&lt;br&gt;Перый ПК" vertex="1">
           <mxGeometry height="17" width="109" x="35" y="34" as="geometry" />
         </mxCell>
-        <mxCell id="Hsh47NoCQzQNqqifeTFL-82" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;labelBackgroundColor=#CCFF99;fontColor=#FFB570;" value="">
+        <mxCell id="Hsh47NoCQzQNqqifeTFL-82" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;labelBackgroundColor=#CCFF99;fontColor=#FFB570;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="35" y="279" as="sourcePoint" />
             <mxPoint x="1715" y="279" as="targetPoint" />
@@ -440,6 +452,21 @@
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-118" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1993&lt;br&gt;Частный&lt;br&gt;Интернет&lt;/font&gt;" vertex="1">
           <mxGeometry height="37" width="75" x="414" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="Hsh47NoCQzQNqqifeTFL-139" connectable="0" parent="1" style="group;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="" vertex="1">
+          <mxGeometry height="34" width="104.75" x="-116.75" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="Hsh47NoCQzQNqqifeTFL-140" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-139" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="104.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Hsh47NoCQzQNqqifeTFL-141" edge="1" parent="Hsh47NoCQzQNqqifeTFL-140" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="67.04" y="19" as="sourcePoint" />
+            <mxPoint x="104.75" y="19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hsh47NoCQzQNqqifeTFL-142" parent="Hsh47NoCQzQNqqifeTFL-139" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Программирование" vertex="1">
+          <mxGeometry height="30" width="106.4" x="-43" y="4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
