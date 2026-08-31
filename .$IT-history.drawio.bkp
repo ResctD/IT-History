@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
   <diagram name="Страница-1" id="KYJR0J4AnumJcIw0RUqU">
-    <mxGraphModel dx="1993" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2517" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,11 +566,6 @@
             <mxPoint x="-1" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-10" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1979&lt;div&gt;Изоляция&lt;/div&gt;&lt;div&gt;(sandbox-concept)&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.8011" as="geometry">
-            <mxPoint x="14" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-34" connectable="0" parent="1" style="group;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="34" width="104.75" x="1.75" y="843" as="geometry" />
         </mxCell>
@@ -878,31 +873,6 @@
             <mxPoint y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-4" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2015&lt;div&gt;Docker Content&lt;/div&gt;&lt;div&gt;Trust&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.6367" y="-1" as="geometry">
-            <mxPoint x="3" y="-17" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-6" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2016&lt;div&gt;Docker&lt;/div&gt;&lt;div&gt;Sec Scanning&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.6973" y="1" as="geometry">
-            <mxPoint x="1" y="-22" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-8" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2021&lt;div&gt;SBOM&lt;/div&gt;&lt;div&gt;(Docker)&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.9551" y="-3" as="geometry">
-            <mxPoint x="26" y="20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-9" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1997&lt;div&gt;Deception Toolkit&lt;/div&gt;&lt;div&gt;(honeypot)&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.2863" as="geometry">
-            <mxPoint x="4" y="-23" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-11" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2001&lt;div&gt;Norman Sandbox&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0941" y="3" as="geometry">
-            <mxPoint x="1" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-64" connectable="0" parent="1" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
           <mxGeometry height="34" width="104.75" x="1.75" y="799" as="geometry" />
         </mxCell>
@@ -1072,26 +1042,6 @@
         <mxCell id="YfXrDrMYGx6pwpR3bxEm-5" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2011&lt;div&gt;NoSQL&lt;/div&gt;&lt;div&gt;injection&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1867" y="-4" as="geometry">
             <mxPoint x="-1" y="22" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-1" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2014&lt;br&gt;Нарушение&lt;br&gt;изоляции&lt;div&gt;Docker&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.2672" y="2" as="geometry">
-            <mxPoint x="-1" y="-33" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-2" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2014&lt;div&gt;CVE-2014-6407&lt;/div&gt;&lt;div&gt;Повышение&lt;/div&gt;&lt;div&gt;привилегий&lt;/div&gt;&lt;div&gt;Docker&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.2891" as="geometry">
-            <mxPoint x="26" y="-35" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-3" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2019&lt;div&gt;CVE-2019-5736&lt;/div&gt;&lt;div&gt;Побег из&lt;/div&gt;&lt;div&gt;контейнера через runs&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.5406" y="-2" as="geometry">
-            <mxPoint x="-58" y="-36" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-13" connectable="0" parent="Hsh47NoCQzQNqqifeTFL-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1996&lt;div&gt;CGI-скрипты&lt;/div&gt;&lt;div&gt;(RCE&amp;nbsp;&lt;/div&gt;&lt;div&gt;Apache/NCSA)&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.4474" y="-1" as="geometry">
-            <mxPoint x="23" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hsh47NoCQzQNqqifeTFL-71" connectable="0" parent="1" style="group;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FFFFFF;" value="" vertex="1">
@@ -1361,11 +1311,6 @@
         <mxCell id="pg0ECG24z64CU_VMCBlv-70" connectable="0" parent="pg0ECG24z64CU_VMCBlv-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2022&lt;div&gt;ГОСТ Р&lt;/div&gt;&lt;div&gt;59709&lt;/div&gt;&lt;div&gt;Стандарт&lt;/div&gt;&lt;div&gt;Защиты&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.8583" y="-4" as="geometry">
             <mxPoint x="-594" y="31" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9D9yaaqklJHhDNpw2UXS-5" connectable="0" parent="pg0ECG24z64CU_VMCBlv-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2015&lt;div&gt;CIS Docker&amp;nbsp;&lt;/div&gt;&lt;div&gt;Benchmark&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.3377" y="-1" as="geometry">
-            <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pg0ECG24z64CU_VMCBlv-56" connectable="0" parent="1" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
